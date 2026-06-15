@@ -635,9 +635,9 @@ elif page == "Settings & Backup":
     - All data stored in browser session (temporary)
     - Export JSON regularly for persistence
     - Upload JSON to Google Drive for cloud backup
-    - Contact: **0321-8625988**
+    - Contact: **0333-7116571**
     """)
 
 # Footer
 st.markdown("---")
-st.markdown("<div style='text-align:center; color:#999; font-size:0.85rem;'>Gujranwala Cheese & Food | Inventory System v1.0 | 0321-8625988</div>", unsafe_allow_html=True)
+st.markdown("<div style='text-align:center; color:#999; font-size:0.85rem;'>Gujranwala Cheese & Food | Inventory System v1.0 | By HRs Services </div>", unsafe_allow_html=True)
